@@ -1,4 +1,3 @@
 # github_sample
-testing123
-Add the instruction tomorrow.  
-wererewrsfsdfdsfdsfsdf
+
+https://github.com/fswylie01/github_sample/blob/master/testing.html
