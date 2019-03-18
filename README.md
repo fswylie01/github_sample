@@ -7,6 +7,3 @@ Made Using GitHub HTML Preview:
 
 
 
-
-Made Using GitHub Pages:
-<a href="https://fswylie01.github.io/github_sample/" target="_blank">View Nav Bar Test Page</a>
